@@ -70,10 +70,7 @@ article {
     height: 300px;
     padding-top: 100px;
 }
-.gr{
-    padding-top:10px;
-    padding-bottom: 10px;
-}
+
 
 /* h2 tag in 3_column section */
 
@@ -83,7 +80,7 @@ article {
     font-weight: bold;
     color: orange;
     background-repeat: no-repeat;
-    padding-top: -20px;
+    padding-top: 100px;
     padding-bottom: 150px;
 }
 .sec{
@@ -91,12 +88,17 @@ article {
     text-align: center;
     font-weight: bold;
     color: orange;
-    padding-top: -10px;
+    padding-top: 50px;
     padding-bottom: 10px;
 }
 /* style for all h3 tags */
 h3 {
-    margin-top: 7px;
+   padding-top: 10px;
+}
+
+a h2{
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
 /* footer section */
