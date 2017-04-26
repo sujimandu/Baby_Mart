@@ -3,7 +3,7 @@ body {
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed;
-    font-family:sans-serif;
+    font-family:'Open Sans', sans-serif;;
 }
 
 .main {
@@ -57,38 +57,51 @@ a:hover {
 a {
     text-decoration: none;
 }
-.prop{
+.three{
     padding-top:70px;
     padding-bottom: 40px;
     text-align: center;
+
 }
 /* style for hero section */
-article {
-    margin-bottom: 10px;
-    text-align: center;
-    color: white;
-    height: 300px;
-    padding-top: 100px;
-}
 
+.hero-unit
+{
+    padding: 10px;
+    font-size: 18;
+    font-weight: 100;
+    line-height: 30px;
+    background-color:grey;
+    -webkit-border-radius:6px;
+    border-radius: 6px;
+    padding-bottom: 100px;
+    padding-top:0px;
+    
+
+}
+.hero-unit img{
+    padding-top: 100px;
+    padding-bottom: 0px;
+
+}
 
 /* h2 tag in 3_column section */
 
-.fir{
+.single{
   
     text-align: center;
     font-weight: bold;
     color: orange;
     background-repeat: no-repeat;
-    padding-top: 100px;
-    padding-bottom: 150px;
+    padding-top: 30px;
+    padding-bottom: 10px;
 }
-.sec{
+.divide{
   
     text-align: center;
     font-weight: bold;
     color: orange;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 10px;
 }
 /* style for all h3 tags */
