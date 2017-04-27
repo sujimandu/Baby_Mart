@@ -47,8 +47,6 @@ li a {
     padding-right: 10px;
     font-size: 1.5em;
     list-style-type: none;
-    
-
 }
 
 a:hover {
@@ -58,13 +56,12 @@ a:hover {
 a {
     text-decoration: none;
 }
-.three{
+.three_head{
     padding-top:70px;
     padding-bottom: 40px;
     text-align: center;
-    
-
-  }
+}
+ 
 h2{
    color:black;
    text-align:center;
